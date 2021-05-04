@@ -20,6 +20,7 @@ select {
 }
 .mainContent {
   padding-top: 20px;
+  font-color: #000000;
   text-align: center;
 }
 
