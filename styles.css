@@ -1,5 +1,5 @@
 button {
-  background-color: #000000;
+  background-color: #ffffff;
   border: 6px solid #0ff166;
   border-radius: 10px;
   width: 150px;
@@ -15,7 +15,7 @@ select {
   font-weight: bold;
   text-align: center;
   color: white;
-  background-image: linear-gradient(to right, navy, white);
+  background-image: linear-gradient(green);
   padding: 20px;
 }
 .mainContent {
